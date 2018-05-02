@@ -54,7 +54,7 @@ BMx280_READ:
   cbi SPIPORT, SS_1 ; call slave
   _READ_DATA:
     rcall SPIM_TRANSFER_BUFFER 
-	clr txByte  
+    clr txByte  
     st Y+, rxByte 
     dec R0
     brne _READ_DATA
