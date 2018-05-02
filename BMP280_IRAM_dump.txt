@@ -1,0 +1,7 @@
+data 0x0060  02 6f af 67 32 00 4e 92  .oЇg2.N’
+data 0x0068  4c d6 d0 0b 14 1a ff ff  LЦР...яя
+data 0x0070  f9 ff 8c 3c f8 c6 70 17  щяЊ<шЖp.
+data 0x0078  00 6d b9 cd fd d6 0b df  .m№НэЦ.Я
+data 0x0080  39 d1 b9 fd ff 67 30 f3  9С№эяg0у
+data 0x0088  3d 7f f7 4f ed fc 9d 00  =.чOньќ.
+data 0x0090  56 17 00 83 97 b8 f5 8f  V..ѓ—ёхЏ
