@@ -7,7 +7,7 @@
 
 
 ;/********************************* SPI Routines *********************************/
-/* //////////////////////// SPI Master Transfer Buffer ///////////////////////// */
+;/* /////////////////////// SPI Master Transfer Buffer ///////////////////////// */
 SPIM_TRANSFER_BUFFER:
   in tmp, USISR
   sbr tmp, (1<<USIOIF)
